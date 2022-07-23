@@ -1,4 +1,4 @@
-# Hi, I’m @farmaan57! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi, I’m @MohammedFarmaan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 ___
 My name is Mohammed Farmaan and I'm a software engineer. I'm living in Chennai and currently learning at Machine learning🌱. You can find me on [![Github][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
@@ -17,5 +17,5 @@ Get In Touch: [LinkedIn](https://www.linkedin.com/in/mohammed-farmaan-4b2449242/
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-[1]: https://github.com/farmaan57
+[1]: https://github.com/MohammedFarmaan
 [2]: https://www.linkedin.com/in/mohammed-farmaan-4b2449242/
