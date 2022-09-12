@@ -9,7 +9,7 @@ My name is Mohammed Farmaan and I'm a software engineer. I'm living in Chennai a
 ![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vcs-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/dev-tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 Get In Touch: [LinkedIn](https://www.linkedin.com/in/mohammed-farmaan-4b2449242/) 
 
