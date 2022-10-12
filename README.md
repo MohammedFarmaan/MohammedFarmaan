@@ -3,7 +3,7 @@ ___
 My name is Mohammed Farmaan and I'm a software engineer. I'm living in Chennai and currently learning Django 🌱. You can find me on [![Github][1.2]][1],  or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
-![
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e85d04)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=e85d04)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=f48c06)
