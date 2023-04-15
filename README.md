@@ -1,22 +1,16 @@
-# Hi, I’m @MohammedFarmaan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-___
-My name is Mohammed Farmaan and iam a student with a passion for software engineering and developing web applications. I'm living in Chennai and currently learning Django 🌱. You can find me on [![Github][1.2]][1],  or on [![LinkedIn][2.2]][2].
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e85d04)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=e85d04)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=f48c06)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=f48c06)
-![](https://img.shields.io/badge/Vcs-GIT-informational?style=flat&logo=git&logoColor=white&color=f48c06)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=faa307)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=faa307)
-
-Get In Touch: [LinkedIn](https://www.linkedin.com/in/mohammed-farmaan-4b2449242/) 
-
-[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+# 💫 About Me:
+I'm Mohammed Farmaan, a student passionate about software engineering and web development. Currently learning Deep Leaning 🌱. Find me on Github and LinkedIn.<br><br>Thanks!
 
 
-[1]: https://github.com/MohammedFarmaan
-[2]: https://www.linkedin.com/in/mohammed-farmaan-4b2449242/
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-farmaan-k) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Farmaan) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohammedFarmaan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedFarmaan&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFarmaan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MohammedFarmaan&icon=0&color=12)](https://visitcount.itsvg.in)
