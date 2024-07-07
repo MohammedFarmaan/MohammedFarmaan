@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohammed Farmaan, a student passionate about software engineering and web development. Currently learning Deep Leaning 🌱. Find me on Github and LinkedIn.<br><br>Thanks!
+I'm Mohammed Farmaan, a student passionate about software engineering and web development. Currently learning Spring Boot 🌱. Find me on Github and LinkedIn.<br><br>Thanks!
 
 
 ## 🌐 Socials:
